@@ -1,0 +1,6 @@
+{
+  "name": "Habit RPG",
+  "description": "A real-life RPG game to track habits as daily quests, level up, increase character stats, unlock badges, and avoid debuffs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
